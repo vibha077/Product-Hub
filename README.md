@@ -1,11 +1,11 @@
 # React + Redux Product Management Application
 
-🔗 **Live Demo:** (Paste deployed link here)  
-🔗 **GitHub Repository:** (Paste repository link here)
+**Live Demo:** (Paste deployed link here)  
+ **GitHub Repository:** (Paste repository link here)
 
 ---
 
-## 📌 Project Overview
+# Project Overview
 
 This project is a React + Redux based Product Management Application developed following modern industry best practices.  
 
