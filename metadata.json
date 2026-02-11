@@ -1,0 +1,5 @@
+{
+  "name": "Product Hub",
+  "description": "A professional React & Redux application for managing product catalogs, featuring secure authentication and full CRUD capabilities using the DummyJSON API.",
+  "requestFramePermissions": []
+}
