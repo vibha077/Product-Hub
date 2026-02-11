@@ -1,9 +1,6 @@
 # React + Redux Product Management Application
 
-**Live Demo:** (Paste deployed link here)  
- **GitHub Repository:** (Paste repository link here)
-
----
+**Live Demo:**(https://product-hub-xexa.vercel.app/#/login))  
 
 # Project Overview
 
